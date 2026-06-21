@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce fuego de pasión
+
+This log tracks the cryptographic history and versioning for the song **Dulce fuego de pasión** (dulce-fuego-de-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T05:58:07.469465 | `v1` | `288cb38806c7ae257ee487ecb4bd68278ab8517743fc7af0feb1a8fb3dd29e8d` | `55d754bdab3cebf6991a31c508d0eb7ab83c54be3f2e736b2560d244c735ed23` | `2026-06-22_dulce-fuego-de-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
