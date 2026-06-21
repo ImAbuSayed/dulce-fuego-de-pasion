@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-fuego-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dulce fuego de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-fuego-de-pasion/) |
+| **Get License** | [Music Rights & Licensing for Dulce fuego de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-fuego-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero sentir tu calor, fuego en la oscuridad
+> Dime que esta noche tú no vas a escapar
+> Bailando suave, mami, pura sensualidad
+> Dulce fuego de pasión, ven, dame la mitad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
