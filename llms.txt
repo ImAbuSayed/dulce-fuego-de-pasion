@@ -15,7 +15,7 @@
 | **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-fuego-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Dulce fuego de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-fuego-de-pasion/) |
+| **Get License** | [License this song: Dulce fuego de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-fuego-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/4011)
+- [Telegram](https://t.me/AbuSayedMusic/4027)
 
 ---
 
